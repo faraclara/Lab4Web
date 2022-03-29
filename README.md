@@ -138,8 +138,13 @@ Kemudian tambahkan CSS.
 ###### Pertanyaan dan Tugas
 1. Tambahkan Layout untuk menu About
 buat single layout yang berisi deskripsi, portfolio, dll
+
+![](images/soal%201.jpg)
+
 2. Tambahkan layout untuk menu Contact
 yang berisi form isian: nama, email, message, dll
+
+![](images/soal%202.jpg)
 
 ###### Laporan Praktikum
 

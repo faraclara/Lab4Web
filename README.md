@@ -144,7 +144,7 @@ buat single layout yang berisi deskripsi, portfolio, dll
 2. Tambahkan layout untuk menu Contact
 yang berisi form isian: nama, email, message, dll
 
-![](images/soal%202.jpg)
+![](images/soal%2022.jpg)
 
 ###### Laporan Praktikum
 
